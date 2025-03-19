@@ -10,4 +10,4 @@ def read_hello():
 
 @app.get("/feature")
 def read_feature():
-    return {"message": "New feature"}
+    return {"message": "Enhanced feature"}
